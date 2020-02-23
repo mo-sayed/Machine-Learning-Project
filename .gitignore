@@ -1,0 +1,4 @@
+*.csv
+*.html
+.ipynb_checkpoints
+.DS_Store
